@@ -1,0 +1,8 @@
+identifier: cider.monochromish.nanoleaf
+name: Nanoleaf
+description: Integrate your Nanoleaf lights with Cider.
+author: Monochromish
+repo: https://github.com/Monochromish/nanoleaf
+entry:
+  'plugin.js':
+    type: main
